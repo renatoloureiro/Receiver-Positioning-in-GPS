@@ -20,19 +20,19 @@ following major tasks:
 
 #### 1) Trajectory estimation
 
-<img src="/Images/fig19.png" width="300" />
+<img src="/Images/fig19.png" width="400" />
 
 #### 2) Estimation Errors
 
-<img src="/Images/fig40.png" width="300" />
-<img src="/Images/fig44.png" width="300" />
-<img src="/Images/fig42.png" width="300" /> 
+<img src="/Images/fig40.png" width="400" />
+<img src="/Images/fig44.png" width="400" />
+<img src="/Images/fig42.png" width="400" /> 
 
 #### 3) Effect of number of Satellites 
 
-<img src="/Images/satellite.png" width="300" /> 
+<img src="/Images/satellite.png" width="400" /> 
 
 #### 4) Presence of Ionosphere
 
-<img src="/Images/ionosphere1.png" width="300" /> 
-<img src="/Images/ionosphere2.png" width="300" /> 
+<img src="/Images/ionosphere1.png" width="400" /> 
+<img src="/Images/ionosphere2.png" width="400" /> 
