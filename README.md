@@ -14,4 +14,8 @@ following major tasks:
 - Determination of the satellites in view from a selected location on the Earth surface.
 - Determination of the optimum sub-constellation for a certain number of satellites N selectable  using minimization of the PDOP parameter.
 - Implementation of the least-squares and extended Kalman filter (EKF) algorithms (models PV and/or PVA) using the pseudoranges with imperfect ionospheric/tropospheric corrections as observations.
-- Estimation of the receiver’s position (latitude, longitude, and altitude), velocity (and acceleration for PVA model) using the least-squares and the EKF
+- Estimation of the receiver’s position (latitude, longitude, and altitude), velocity (and acceleration for PVA model) using the least-squares and the EKF.
+
+## Results
+
+<img src="/Images/fig40.pdf"/>
