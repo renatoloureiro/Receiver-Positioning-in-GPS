@@ -18,7 +18,7 @@ following major tasks:
 
 ## Results
 
-<img src="/Images/fig40.pdf"/>
+
 
 <p float="left">
   <img src="/Images/fig40.png" width="100" />
