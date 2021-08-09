@@ -22,6 +22,7 @@ following major tasks:
 
 <p float="left">
   <img src="/Images/fig40.png" width="300" />
-  <img src="/Images/fig42.png" width="300" /> 
   <img src="/Images/fig44.png" width="300" />
+  <img src="/Images/fig19.png" width="300" />
+  <img src="/Images/fig42.png" width="300" /> 
 </p>
